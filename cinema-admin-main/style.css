@@ -1,0 +1,26 @@
+.container{
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.action-btn{
+    border: none;
+    padding: 16px 10px;
+    border-radius: 18px;
+    cursor: pointer;
+}
+.action-btn:hover{
+    background: rgb(255, 210, 248);
+}
+
+#content {
+    width: 500px;
+    margin: 0 auto;
+    background: rgb(233, 236, 255);
+    border-radius: 18px;
+    padding: 16px;
+}
+
